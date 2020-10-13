@@ -1,0 +1,70 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: FirstNPC
+---------------------------------
+#NODEID#
+0
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Hi
+---------------------------------
+#NODEID#
+1
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+Hello
+---------------------------------
+#NODEID#
+2
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+Are you busy?
+---------------------------------
+#NODEID#
+3
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+So-So
+---------------------------------
+#NODEID#
+5
+#TAG#
+
+#ISPLAYER#
+True
+---
+#COMMENT#
+May I ask you?
+---------------------------------
+#NODEID#
+6
+#TAG#
+
+#ISPLAYER#
+False
+---
+#COMMENT#
+No, I don't want to ask
+---------------------------------
+#END#
